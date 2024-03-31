@@ -32,7 +32,7 @@ public class Task7 {
             System.out.print(i + ", ");
         }
         System.out.println();
-
+            //
 
     }
 }
